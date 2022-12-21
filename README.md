@@ -27,13 +27,7 @@ n2=int(input())
 temp=n2
 n2=n1
 print("Swapped values are:",temp,n2)
-
-
-
 ```
-
-
-
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
