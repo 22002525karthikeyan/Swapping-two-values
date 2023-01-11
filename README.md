@@ -29,6 +29,7 @@ n2=n1
 print("Swapped values are:",temp,n2)
 ```
 ##output:
+![](stv.png)
 
 
 ## RESULT:
